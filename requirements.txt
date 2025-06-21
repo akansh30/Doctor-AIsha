@@ -1,0 +1,10 @@
+whisper
+gtts
+elevenlabs
+pyaudio
+ffmpeg-python
+opencv-python
+requests
+gradio
+openai
+python-dotenv
